@@ -1,0 +1,9 @@
+{
+  "_base": "https://raw.githubusercontent.com/EloMorelo/samples/master/",
+  "vocals": [
+    "vocals/bulgaria1.wav",
+    "vocals/bulgaria2.wav",
+    "vocals/bulgaria3.wav",
+    "vocals/bulgaria4.wav"
+  ]
+}
